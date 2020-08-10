@@ -1,0 +1,40 @@
+form {
+    background-size: cover;
+    padding: 20px;
+    padding-bottom: 10px;
+    margin-left: 300px;
+}
+
+input {
+    margin-top: 0.2em;
+    outline: none;
+    padding: 0.75em;
+    border: none;
+    min-width: 60%;
+    border-radius: 10px;
+}
+
+input.btn {
+    min-width: 0;
+    color: #fff;
+    background-color: #22de7a;
+    padding: 1em;
+    margin-top: 1.5em;
+    margin-left: 16em;
+    font-weight: bold;
+    border-radius: 20px;
+}
+
+input.in {
+    color: white;
+    margin: 0px;
+    border: none;
+    min-width: 0px;
+    background-color: cadetblue;
+    border-radius: 20px;
+    margin-left: 450px;
+    cursor: pointer;
+}
+
+
+
